@@ -1,0 +1,89 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+}
+*{
+  background-image: url("https://media.istockphoto.com/vectors/simple-wallpaper-background-floral-pattern-for-seamless-textures-vector-id1292221705?k=20&m=1292221705&s=612x612&w=0&h=rGLOuV67xn0WDFlrRG9e6HyGOntp99uv759LhH9N93M=")
+    
+}
+/*skillink{
+  border: 2px solid #73AD21;
+  border-radius: 25px;
+  
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  cursor: pointer;  
+  width: 70%;  
+  opacity: 0.9;
+}*/
+
+.container{
+  flex: 1;
+  text-align: right; 
+  margin: 10px;
+}
+/*.container{
+  width: 80%;
+  padding: 20px;
+  border: 2px;
+}*/
+/*.imgln{
+  position: absolute;
+  bottom: 0;
+  left: 250px:
+}*/
+
+.aboutme {
+  /*width: 80%;*/
+  margin: auto;
+  padding-top: 10px 10px;
+  display: flex;
+  float: left;
+}
+
+.ulskil{
+  text-align: right;
+}
+
+.fa {
+  position: fixed
+  display: block;
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-yahoo {
+  background: #430297;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+/*#content{
+  width: 968px;
+  height: 488px;
+  align-content: center;
+  justify-content: center;
+  margin: 0 auto;
+  color: blu
+}*/
